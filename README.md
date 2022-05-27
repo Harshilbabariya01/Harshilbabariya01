@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, I’m Harshil Babariya!
 
-- 🔭 I’m currently working on React Js.
-- 👯 I’m looking to collaborate on project work and learn new things everytime.
-- 📫 How to reach me: :twitter:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📨 I’m interested in Front-end Developing.
+- 💻 I’m currently working in React js.
+- 💥 I’m looking for collaborate in application development.
+- 📫 How to reach me : Instagram - @harshil.2one , Telegram - @me
+- Him / His
+
