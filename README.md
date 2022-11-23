@@ -1,8 +1,8 @@
 ### 🙋‍♂️ Hi, I’m Harshil Babariya!
 
-- 👨‍💻 I’m interested in Front-end Developing.
-- 💻 I’m currently working in React js.
-- 💥 I’m looking for collaborate in application development.
+- 👨‍💻 Front-end Developer
+- 💻 ReactJs
+- 💥 Colab Accepted
 - 📫 How to reach me : [Instagram - @harshil.2one](https://www.instagram.com/harshil.2one/)
 - 💁‍♂️ Him / His
 
